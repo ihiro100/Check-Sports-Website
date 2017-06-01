@@ -2,7 +2,8 @@
 We have a set of URLS. We have check wheater it is sports website or not.
 
 INTRODUCTION:
-In this project we are taking one file as input. File contains a list of URLS (each on the new line). Our task to check wheater the listed Url is Sports Website or not. We are using one more file to to store output.
+In this project we are taking one file as input. File contains a list of URLS (each on the new line). Our task to check wheater the listed Url is Sports Website or not. We are using one more file in which list of sports is present.
+Output will be stored into a new file.
 
 COMPILING AND INPUTS:
 Python language is used for web scraping and Threads for multiprocessing.
