@@ -71,7 +71,7 @@ if __name__ == '__main__':
     file = open(raw_input('enter filename :'))
     sites = file.read().split()
     file.close()
-    file = open('sports.txt')
+    file = open('sports_list.txt')
     sports = file.read().split('\n')
     file.close()
     data = []
